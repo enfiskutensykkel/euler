@@ -11,6 +11,7 @@ for d in dirs:
 	r = url.urlopen("http://projecteuler.net/problem=%s" % d).read()
 	title = re.findall(r'<h2>(.*?)</h2>', r)[0].replace("\r", "")
 	content = re.findall(r'<div\s+class="problem_content".*?>(.*)</div><br />\s*<br /></div>', r, re.DOTALL | re.MULTILINE)[0].replace("\r", "")
+	#content = url.urlopen("http://projecteuler.net/minimal=%s" % d).read().replace("\r","")
 
 	if not title[-1] == "\n":
 		title += "\n"
