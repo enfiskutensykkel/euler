@@ -29,4 +29,4 @@ Largest product in a grid
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=11]
+[Go to the problem description](http://projecteuler.net/problem=11)

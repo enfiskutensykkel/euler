@@ -10,4 +10,4 @@ Sum square difference
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=6]
+[Go to the problem description](http://projecteuler.net/problem=6)

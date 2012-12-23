@@ -8,4 +8,4 @@ Special Pythagorean triplet
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=9]
+[Go to the problem description](http://projecteuler.net/problem=9)

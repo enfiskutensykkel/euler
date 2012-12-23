@@ -6,4 +6,4 @@ Multiples of 3 and 5
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=1]
+[Go to the problem description](http://projecteuler.net/problem=1)

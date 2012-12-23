@@ -10,4 +10,4 @@ Summation of primes
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=10]
+[Go to the problem description](http://projecteuler.net/problem=10)

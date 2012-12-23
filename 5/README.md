@@ -6,4 +6,4 @@ Smallest multiple
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=5]
+[Go to the problem description](http://projecteuler.net/problem=5)

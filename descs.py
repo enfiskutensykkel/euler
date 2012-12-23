@@ -16,6 +16,6 @@ for d in dirs:
 		title += "\n"
 	line = "".join(['='] * (len(title)-1)) + '\n'
 
-	link = "\n\n[Go to the problem description](http://projecteuler.net/problem=%s]\n" % d
+	link = "\n\n[Go to the problem description](http://projecteuler.net/problem=%s)\n" % d
 
 	open(os.path.join(os.path.join(".",d), 'README.md'), 'w').write(title + line + content + link)

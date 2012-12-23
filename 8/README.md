@@ -28,4 +28,4 @@ Largest product in a series
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=8]
+[Go to the problem description](http://projecteuler.net/problem=8)

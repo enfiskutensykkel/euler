@@ -7,4 +7,4 @@ Largest palindrome product
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=4]
+[Go to the problem description](http://projecteuler.net/problem=4)
