@@ -8,3 +8,6 @@ Summation of primes
 -->
 
 
+
+
+[Go to the problem description](http://projecteuler.net/problem=10]

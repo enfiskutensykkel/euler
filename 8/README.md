@@ -26,3 +26,6 @@ Largest product in a series
 71636269561882670428252483600823257530420752963450<br />
 </p>
 
+
+
+[Go to the problem description](http://projecteuler.net/problem=8]

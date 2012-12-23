@@ -7,3 +7,6 @@ Largest prime factor
 Note: This problem has been changed recently, please check that you are using the right number.
 -->
 
+
+
+[Go to the problem description](http://projecteuler.net/problem=3]

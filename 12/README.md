@@ -14,3 +14,6 @@ Highly divisible triangular number
 <p>We can see that 28 is the first triangle number to have over five divisors.</p>
 <p>What is the value of the first triangle number to have over five hundred divisors?</p>
 
+
+
+[Go to the problem description](http://projecteuler.net/problem=12]

@@ -27,3 +27,6 @@ Largest product in a grid
 <p>The product of these numbers is 26 <img src='images/symbol_times.gif' width='9' height='9' alt='&times;' border='0' style='vertical-align:middle;' /> 63 <img src='images/symbol_times.gif' width='9' height='9' alt='&times;' border='0' style='vertical-align:middle;' /> 78 <img src='images/symbol_times.gif' width='9' height='9' alt='&times;' border='0' style='vertical-align:middle;' /> 14 = 1788696.</p>
 <p>What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20<img src='images/symbol_times.gif' width='9' height='9' alt='&times;' border='0' style='vertical-align:middle;' />20 grid?</p>
 
+
+
+[Go to the problem description](http://projecteuler.net/problem=11]
