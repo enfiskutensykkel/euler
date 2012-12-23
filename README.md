@@ -1,5 +1,5 @@
 Project Euler Solutions
 =======================
 
-These are my solutions to some of the problems from project Euler.
-The problems can be found [at their website](http://projecteuler.net/problems).
+These are my solutions to some of the problems from [Project Euler](http://projecteuler.net/).
+A full list of available problems can be found [here](http://projecteuler.net/problems).
