@@ -14,4 +14,4 @@ therefore some of my solutions that require speed are in C (GNU).
 
 I've also included a script to copy problem descriptions and place them in the
 problem sub-directories. Run `python descs.py` in the root repository directory.
-The script will automatically search for sub-directories ( **so name them by problem numbers!** ).
+The script will automatically search for sub-directories ( *so name them by problem numbers!* ).
