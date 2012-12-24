@@ -4,12 +4,13 @@ from math import sqrt
 
 def divisors(n):
 	divs = []
-	for i in xrange(1, int(sqrt(n))+1):
-		if n % i == 0:
+	for i in xrange(2, int(sqrt(n))+1):
+		d, r = divmod(n, i)
+		if r == 0:
 			divs.append(i)
-			divs.append(n/i)
+			divs.append(d)
 
-	return divs
+	return [1, n] + divs
 
 def triangle():
 	i, n = 7, 28 # from the problem page
