@@ -12,7 +12,7 @@
 # put it in ./1-25/18
 
 ### parameters ###
-override = True
+override = False
 root = "."
 name = "README.md"
 ### end parameters ###
@@ -44,6 +44,6 @@ for subdir in map(lambda name: os.path.join(root, name), filter(lambda name: re.
 
 
 		# Write to file
-		print "#%s writing..." % s
-		open(os.path.join(directory, name), 'w').write(title + line + content + link)
+		print "#%s writing..." % problem
+		open(os.path.join(directory, name), 'w').write(title + line + contents + link)
 
