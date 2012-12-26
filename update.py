@@ -12,13 +12,15 @@
 # put it in ./1-25/18
 
 ### parameters ###
-override = False
 root = "."
 name = "README.md"
 ### end parameters ###
 
 
 import urllib2 as url, os, re
+
+handle = open(os.path.join(root, name), "a")
+override = False
 
 for subdir in map(lambda name: os.path.join(root, name), filter(lambda name: re.match(r'[0-9]+\-[0-9]+', name) != None, [ name for name in os.listdir(root) if os.path.isdir(os.path.join(root, name)) ])):
 	for directory, problem in [ (os.path.join(subdir, d), d) for d in os.listdir(subdir) if os.path.isdir(os.path.join(subdir, d)) and d.isdigit() ]:
@@ -47,3 +49,6 @@ for subdir in map(lambda name: os.path.join(root, name), filter(lambda name: re.
 		print "#%s writing..." % problem
 		open(os.path.join(directory, name), 'w').write(title + line + contents + link)
 
+		handle.write("[#%s %s](%s)\n" % (problem, title.strip(), directory))
+
+handle.close()
