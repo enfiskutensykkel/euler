@@ -15,6 +15,7 @@
 root = "."
 override = False
 name = "README.md"
+clist = "list.md"
 ### end parameters ###
 
 
@@ -40,7 +41,7 @@ for subdir in map(lambda name: os.path.join(root, name), filter(lambda name: re.
 		link = "\n\n[Go to the problem description](http://projecteuler.net/problem=%s)\n" % problem
 
 		# Write to file
-		problems[problem] = (len(re.findall(r'<input', result)) > 0, os.path.isfile(os.path.join(directory, name)), title.strip(), directory)
+		problems[problem] = (len(re.findall(r'<input', result)) > 0, title.strip(), directory)
 
 		# Don't overwrite existing file
 		if not override and os.path.isfile(os.path.join(directory, name)):
@@ -49,9 +50,10 @@ for subdir in map(lambda name: os.path.join(root, name), filter(lambda name: re.
 		open(os.path.join(directory, name), 'w').write(title + line + contents + link)
 
 
-handle = open(os.path.join(root, name), "a")
+handle = open(os.path.join(root, clist), "w")
+handle.write("Completed solutions\n")
+handle.write("===================\n")
 for problem in sorted(problems.keys(), cmp=lambda x, y: -1 if int(x) < int(y) else 1):
-		exist, done, title, directory = problems[problem]
-		if done and (not exist or override):
-			handle.write("%s. [%s](euler/tree/master/%s)\n" % (problem, title, directory))
+		done, title, directory = problems[problem]
+		handle.write("* [#%s %s](euler/tree/master/%s)\n" % (problem, title, directory))
 handle.close()
