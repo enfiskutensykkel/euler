@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print "%d" % sum(map(lambda x: x if x % 5 == 0 or x % 3 == 0 else 0, range(3, 1000)))
+print sum(x for x in range(3, 1000) if x % 5 == 0 or x % 3 == 0)
