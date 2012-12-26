@@ -15,7 +15,7 @@
 root = "."
 override = False
 name = "README.md"
-clist = "list.md"
+clist = "INDEX.md"
 ### end parameters ###
 
 
@@ -55,5 +55,5 @@ handle.write("Completed solutions\n")
 handle.write("===================\n")
 for problem in sorted(problems.keys(), cmp=lambda x, y: -1 if int(x) < int(y) else 1):
 		done, title, directory = problems[problem]
-		handle.write("* [#%s %s](euler/tree/master/%s)\n" % (problem, title, directory))
+		handle.write("* [#%s %s](http://projecteuler.net/problem=%s) (see `%s`)\n" % (problem, title, problem, directory))
 handle.close()

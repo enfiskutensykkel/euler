@@ -19,4 +19,4 @@ The script will automatically search for sub-directories ( *so name them by prob
 
 Completed solutions
 -------------------
-See the file `list.md` for a list over completed problem solutions.
+See the file `INDEX.md` for a list over completed problem solutions.
