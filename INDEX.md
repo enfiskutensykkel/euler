@@ -29,6 +29,7 @@ Completed solutions
 * [#27 Quadratic primes](http://projecteuler.net/problem=27) (see `./26-50/27`)
 * [#28 Number spiral diagonals](http://projecteuler.net/problem=28) (see `./26-50/28`)
 * [#29 Distinct powers](http://projecteuler.net/problem=29) (see `./26-50/29`)
+* [#30 Digit fifth powers](http://projecteuler.net/problem=30) (see `./26-50/30`)
 * [#32 Pandigital products](http://projecteuler.net/problem=32) (see `./26-50/32`)
 * [#35 Circular primes](http://projecteuler.net/problem=35) (see `./26-50/35`)
 * [#37 Truncatable primes](http://projecteuler.net/problem=37) (see `./26-50/37`)
