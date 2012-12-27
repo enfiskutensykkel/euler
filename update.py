@@ -55,5 +55,5 @@ handle.write("Completed solutions\n")
 handle.write("===================\n")
 for problem in sorted(problems.keys(), cmp=lambda x, y: -1 if int(x) < int(y) else 1):
 		done, title, directory = problems[problem]
-		handle.write("* [#%s %s](http://projecteuler.net/problem=%s) (see `%s`)\n" % (problem, title, problem, directory))
+		handle.write("* [#%s %s](https://github.com/enfiskutensykkel/euler/tree/master/%s)\n" % (problem, title, directory))
 handle.close()
