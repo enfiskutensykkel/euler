@@ -30,6 +30,7 @@ Completed solutions
 * [#28 Number spiral diagonals](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/28)
 * [#29 Distinct powers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/29)
 * [#30 Digit fifth powers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/30)
+* [#31 Coin sums](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/31)
 * [#32 Pandigital products](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/32)
 * [#35 Circular primes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/35)
 * [#37 Truncatable primes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/37)
