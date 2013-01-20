@@ -14,7 +14,7 @@
 ### parameters ###
 root = "."
 override = False
-name = "README.md"
+rname = "README.md"
 clist = "INDEX.md"
 ### end parameters ###
 
@@ -44,10 +44,10 @@ for subdir in map(lambda name: os.path.join(root, name), filter(lambda name: re.
 		problems[problem] = (len(re.findall(r'<input', result)) > 0, title.strip(), directory)
 
 		# Don't overwrite existing file
-		if not override and os.path.isfile(os.path.join(directory, name)):
+		if not override and os.path.isfile(os.path.join(directory, rname)):
 			continue
 		print "#%s writing..." % problem
-		open(os.path.join(directory, name), 'w').write(title + line + contents + link)
+		open(os.path.join(directory, rname), 'w').write(title + line + contents + link)
 
 
 handle = open(os.path.join(root, clist), "w")
