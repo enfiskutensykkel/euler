@@ -34,6 +34,7 @@ Completed solutions
 * [#32 Pandigital products](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/32)
 * [#33 Digit canceling fractions](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/33)
 * [#35 Circular primes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/35)
+* [#36 Double-base palindromes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/36)
 * [#37 Truncatable primes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/37)
 * [#38 Pandigital multiples](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/38)
 * [#42 Coded triangle numbers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/42)
