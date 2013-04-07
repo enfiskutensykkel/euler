@@ -6,6 +6,7 @@
 
 # Using those, we know that
 # b = (p^2 - 2ap) / (2p - 2a)
+# Since we're only interested in integral sides, we kan simply check modulus
 
 # Also, since a^2 + b^2 = c^2, we know that a <= b < c
 # which again means that a + b + c = p  =>  a <= p/3
