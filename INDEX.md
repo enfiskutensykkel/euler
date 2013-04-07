@@ -37,6 +37,7 @@ Completed solutions
 * [#36 Double-base palindromes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/36)
 * [#37 Truncatable primes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/37)
 * [#38 Pandigital multiples](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/38)
+* [#39 Integer right triangles](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/39)
 * [#42 Coded triangle numbers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/42)
 * [#45 Triangular, pentagonal, and hexagonal](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/45)
 * [#46 Goldbach's other conjecture](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/46)
