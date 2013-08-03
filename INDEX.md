@@ -33,6 +33,7 @@ Completed solutions
 * [#31 Coin sums](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/31)
 * [#32 Pandigital products](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/32)
 * [#33 Digit canceling fractions](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/33)
+* [#34 Digit factorials](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/34)
 * [#35 Circular primes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/35)
 * [#36 Double-base palindromes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/36)
 * [#37 Truncatable primes](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/37)
