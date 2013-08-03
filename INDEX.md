@@ -42,6 +42,7 @@ Completed solutions
 * [#40 Champernowne's constant](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/40)
 * [#41 Pandigital prime](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/41)
 * [#42 Coded triangle numbers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/42)
+* [#44 Pentagon numbers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/44)
 * [#45 Triangular, pentagonal, and hexagonal](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/45)
 * [#46 Goldbach's other conjecture](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/46)
 * [#48 Self powers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/48)
