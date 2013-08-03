@@ -11,6 +11,7 @@ int P(int n)
 
 bool P_inv(int x)
 {
+	// Pentagonal check found on wikipedia
 	double n = (sqrt(24*x + 1) + 1.0) / 6.0;
 	return n == floor(n);
 }
