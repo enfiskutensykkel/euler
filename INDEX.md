@@ -46,6 +46,7 @@ Completed solutions
 * [#45 Triangular, pentagonal, and hexagonal](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/45)
 * [#46 Goldbach's other conjecture](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/46)
 * [#48 Self powers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/48)
+* [#49 Prime permutations](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/49)
 * [#52 Permuted multiples](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/52)
 * [#56 Powerful digit sum](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/56)
 * [#65 Convergents of e](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/65)
