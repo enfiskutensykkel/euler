@@ -11,6 +11,8 @@ and the flexibility when dealing with weakly typed variables, large numbers
 (bigger than what fits in traditional data types), textual processing etc.
 Sadly I'm not all too familiar with [numpy](http://www.numpy.org/),
 therefore some of my solutions that require speed are in C (C99/GNU).
+I'm also in the process of learning C++, so some solutions will be implemented
+in that.
 
 I've also included a script to copy problem descriptions and place them in the
 problem sub-directories. Run `python update.py` in the root repository directory.
