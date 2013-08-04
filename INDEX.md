@@ -50,6 +50,7 @@ Completed solutions
 * [#52 Permuted multiples](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/52)
 * [#55 Lychrel numbers](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/55)
 * [#56 Powerful digit sum](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/56)
+* [#59 XOR decryption](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/59)
 * [#65 Convergents of e](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/65)
 * [#67 Maximum path sum II](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/67)
 * [#79 Passcode derivation](https://github.com/enfiskutensykkel/euler/tree/master/./76-100/79)
