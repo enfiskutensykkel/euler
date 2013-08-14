@@ -47,6 +47,7 @@ Completed solutions
 * [#46 Goldbach's other conjecture](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/46)
 * [#48 Self powers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/48)
 * [#49 Prime permutations](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/49)
+* [#50 Consecutive prime sum](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/50)
 * [#52 Permuted multiples](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/52)
 * [#55 Lychrel numbers](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/55)
 * [#56 Powerful digit sum](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/56)
