@@ -45,6 +45,7 @@ Completed solutions
 * [#44 Pentagon numbers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/44)
 * [#45 Triangular, pentagonal, and hexagonal](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/45)
 * [#46 Goldbach's other conjecture](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/46)
+* [#47 Distinct primes factors](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/47)
 * [#48 Self powers](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/48)
 * [#49 Prime permutations](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/49)
 * [#50 Consecutive prime sum](https://github.com/enfiskutensykkel/euler/tree/master/./26-50/50)
