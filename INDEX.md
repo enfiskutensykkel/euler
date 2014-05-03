@@ -53,6 +53,7 @@ Completed solutions
 * [#51 Prime digit replacements](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/51)
 * [#52 Permuted multiples](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/52)
 * [#53 Combinatoric selections](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/53)
+* [#54 Poker hands](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/54)
 * [#55 Lychrel numbers](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/55)
 * [#56 Powerful digit sum](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/56)
 * [#59 XOR decryption](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/59)
