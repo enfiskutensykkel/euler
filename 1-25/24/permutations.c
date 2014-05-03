@@ -32,6 +32,7 @@ int main(void)
 	for (i = 0; tbl[i] != -1 && i < 10; ++i)
 		num = 10 * num + tbl[i];
 
-	printf("%lld\n", num);
+	//printf("%lld\n", num);
+	printf("%ld\n", num);
 	return 0;
 }
