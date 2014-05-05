@@ -57,6 +57,7 @@ Completed solutions
 * [#55 Lychrel numbers](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/55)
 * [#56 Powerful digit sum](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/56)
 * [#57 Square root convergents](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/57)
+* [#58 Spiral primes](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/58)
 * [#59 XOR decryption](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/59)
 * [#60 Prime pair sets](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/60)
 * [#65 Convergents of e](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/65)
