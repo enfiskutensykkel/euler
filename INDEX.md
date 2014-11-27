@@ -61,6 +61,7 @@ Completed solutions
 * [#59 XOR decryption](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/59)
 * [#60 Prime pair sets](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/60)
 * [#61 Cyclical figurate numbers](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/61)
+* [#62 Cubic permutations](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/62)
 * [#63 Powerful digit counts](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/63)
 * [#65 Convergents of e](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/65)
 * [#67 Maximum path sum II](https://github.com/enfiskutensykkel/euler/tree/master/./51-75/67)
