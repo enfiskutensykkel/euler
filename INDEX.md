@@ -74,4 +74,3 @@ Completed solutions
 
 Work in progress
 ================
-* [#91 Right triangles with integer coordinates](https://github.com/enfiskutensykkel/euler/tree/master/91)
