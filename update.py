@@ -20,6 +20,7 @@ import cookielib as cookie
 import re
 import sys
 import getopt
+from datetime import datetime as dt
 
 known_extensions = ['.py', '.c', '.cc', '.cpp', '.java', '.php', '.pl', '.js', '.sh']
 
@@ -89,21 +90,27 @@ def create_readme(path, problem, title, content, solved):
 
 
 def build_index(path, index):
+	filename = os.path.join(path, "INDEX.md")
 	solved = ((path, number, title) for path, number, title, content, solved in index if solved is True)
 	unsolved = ((path, number, title) for path, number, title, content, solved in index if solved is False)
 
-	with open(os.path.join(path, "INDEX.md"), "w") as f:
-		f.write("Completed solutions\n")
-		f.write("===================\n")
+	with open(filename, "w") as f:
+		f.write("Solutions\n")
+		f.write("=========\n")
+		f.write("Here is a list of [Project Euler](https://projecteuler.net/) problems I've attempted to solve.\n")
+		f.write("This file was generated %s by the `update.py` script.\n\n" % str(dt.utcnow()))
 
+		f.write("Solved\n")
+		f.write("------\n")
 		for path, number, title in solved:
 			f.write("* [#%s %s](https://github.com/enfiskutensykkel/euler/tree/master/%s)\n" % (number, title, path))
 
 		f.write("\n")
+
 		f.write("Work in progress\n")
-		f.write("================\n")
+		f.write("----------------\n")
 		for path, number, title in unsolved:
-			f.write("* [#%s %s](https://github.com/enfiskutensykkel/euler/tree/master/%s)\n" % (number, title, path))
+			f.write("* [PE%s %s](https://github.com/enfiskutensykkel/euler/tree/master/%s)\n" % (number, title, path))
 
 
 def usage(command, handle):

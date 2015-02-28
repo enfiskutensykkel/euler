@@ -1,5 +1,10 @@
-Completed solutions
-===================
+Solutions
+=========
+Here is a list of [Project Euler](https://projecteuler.net/) problems I've attempted to solve.
+This file was generated 2015-02-28 11:25:41.893170 by the `update.py` script.
+
+Solved
+------
 * [#1 Multiples of 3 and 5](https://github.com/enfiskutensykkel/euler/tree/master/1-25/1)
 * [#2 Even Fibonacci numbers](https://github.com/enfiskutensykkel/euler/tree/master/1-25/2)
 * [#3 Largest prime factor](https://github.com/enfiskutensykkel/euler/tree/master/1-25/3)
@@ -73,4 +78,4 @@ Completed solutions
 * [#243 Resilience](https://github.com/enfiskutensykkel/euler/tree/master/226-250/243)
 
 Work in progress
-================
+----------------
