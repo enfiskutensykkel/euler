@@ -1,7 +1,7 @@
 Solutions
 =========
 Here is a list of [Project Euler](https://projecteuler.net/) problems I've attempted to solve.
-This file was generated 2015-02-28 11:25:41.893170 by the `update.py` script.
+This file was generated on 2015-02-28 11:32:19.631709 by the `update.py` script.
 
 Solved
 ------
@@ -77,5 +77,3 @@ Solved
 * [#97 Large non-Mersenne prime](https://github.com/enfiskutensykkel/euler/tree/master/76-100/97)
 * [#243 Resilience](https://github.com/enfiskutensykkel/euler/tree/master/226-250/243)
 
-Work in progress
-----------------

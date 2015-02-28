@@ -98,19 +98,22 @@ def build_index(path, index):
 		f.write("Solutions\n")
 		f.write("=========\n")
 		f.write("Here is a list of [Project Euler](https://projecteuler.net/) problems I've attempted to solve.\n")
-		f.write("This file was generated %s by the `update.py` script.\n\n" % str(dt.utcnow()))
+		f.write("This file was generated on %s by the `update.py` script.\n\n" % str(dt.utcnow()))
 
 		f.write("Solved\n")
 		f.write("------\n")
+		count = 0
 		for path, number, title in solved:
 			f.write("* [#%s %s](https://github.com/enfiskutensykkel/euler/tree/master/%s)\n" % (number, title, path))
-
+			count += 1
 		f.write("\n")
 
-		f.write("Work in progress\n")
-		f.write("----------------\n")
-		for path, number, title in unsolved:
-			f.write("* [PE%s %s](https://github.com/enfiskutensykkel/euler/tree/master/%s)\n" % (number, title, path))
+		if count < len(index):
+			f.write("Work in progress\n")
+			f.write("----------------\n")
+			for path, number, title in unsolved:
+				f.write("* [PE%s %s](https://github.com/enfiskutensykkel/euler/tree/master/%s)\n" % (number, title, path))
+			f.write("\n")
 
 
 def usage(command, handle):
