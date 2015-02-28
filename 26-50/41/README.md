@@ -7,4 +7,4 @@ Pandigital prime
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=41)
+[Go to the problem description](https://projecteuler.net/problem=41)

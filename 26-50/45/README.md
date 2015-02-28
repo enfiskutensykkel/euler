@@ -13,14 +13,14 @@ Triangular, pentagonal, and hexagonal
 <tr>
 <td>Pentagonal</td>
 <td>&nbsp;</td>
-<td>P<sub><i>n</i></sub>=<i>n</i>(3<i>n</i><img src='images/symbol_minus.gif' width='9' height='3' alt='&minus;' border='0' style='vertical-align:middle;' />1)/2</td>
+<td>P<sub><i>n</i></sub>=<i>n</i>(3<i>n</i>&minus;1)/2</td>
 <td>&nbsp;</td>
 <td>1, 5, 12, 22, 35, ...</td>
 </tr>
 <tr>
 <td>Hexagonal</td>
 <td>&nbsp;</td>
-<td>H<sub><i>n</i></sub>=<i>n</i>(2<i>n</i><img src='images/symbol_minus.gif' width='9' height='3' alt='&minus;' border='0' style='vertical-align:middle;' />1)</td>
+<td>H<sub><i>n</i></sub>=<i>n</i>(2<i>n</i>&minus;1)</td>
 <td>&nbsp;</td>
 <td>1, 6, 15, 28, 45, ...</td>
 </tr>
@@ -30,4 +30,4 @@ Triangular, pentagonal, and hexagonal
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=45)
+[Go to the problem description](https://projecteuler.net/problem=45)

@@ -56,4 +56,4 @@ Cyclical figurate numbers
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=61)
+[Go to the problem description](https://projecteuler.net/problem=61)

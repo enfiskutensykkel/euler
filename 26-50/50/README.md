@@ -10,4 +10,4 @@ Consecutive prime sum
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=50)
+[Go to the problem description](https://projecteuler.net/problem=50)

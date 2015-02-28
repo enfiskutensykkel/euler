@@ -2,7 +2,7 @@
 ===========================
 
 <p>The Fibonacci sequence is defined by the recurrence relation:</p>
-<blockquote>F<sub><i>n</i></sub> = F<sub><i>n</i><img src='images/symbol_minus.gif' width='9' height='3' alt='&minus;' border='0' style='vertical-align:middle;' />1</sub> + F<sub><i>n</i><img src='images/symbol_minus.gif' width='9' height='3' alt='&minus;' border='0' style='vertical-align:middle;' />2</sub>, where F<sub>1</sub> = 1 and F<sub>2</sub> = 1.</blockquote>
+<blockquote>F<sub><i>n</i></sub> = F<sub><i>n</i>&minus;1</sub> + F<sub><i>n</i>&minus;2</sub>, where F<sub>1</sub> = 1 and F<sub>2</sub> = 1.</blockquote>
 <p>Hence the first 12 terms will be:</p>
 <blockquote>F<sub>1</sub> = 1<br />
 F<sub>2</sub> = 1<br />
@@ -21,4 +21,4 @@ F<sub>12</sub> = 144</blockquote>
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=25)
+[Go to the problem description](https://projecteuler.net/problem=25)

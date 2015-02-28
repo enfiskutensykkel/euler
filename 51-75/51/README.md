@@ -8,4 +8,4 @@ Prime digit replacements
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=51)
+[Go to the problem description](https://projecteuler.net/problem=51)

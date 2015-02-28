@@ -7,4 +7,4 @@ Prime permutations
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=49)
+[Go to the problem description](https://projecteuler.net/problem=49)

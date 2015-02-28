@@ -1,5 +1,5 @@
-Digit canceling fractions
-=========================
+Digit cancelling fractions
+==========================
 
 <p>The fraction <sup>49</sup>/<sub>98</sub> is a curious fraction, as an inexperienced mathematician in attempting to simplify it may incorrectly believe that <sup>49</sup>/<sub>98</sub> = <sup>4</sup>/<sub>8</sub>, which is correct, is obtained by cancelling the 9s.</p>
 <p>We shall consider fractions like, <sup>30</sup>/<sub>50</sub> = <sup>3</sup>/<sub>5</sub>, to be trivial examples.</p>
@@ -8,4 +8,4 @@ Digit canceling fractions
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=33)
+[Go to the problem description](https://projecteuler.net/problem=33)

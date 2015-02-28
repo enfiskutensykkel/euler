@@ -2,7 +2,7 @@ Square root convergents
 =======================
 
 <p>It is possible to show that the square root of two can be expressed as an infinite continued fraction.</p>
-<p style='text-align:center;'><img src='images/symbol_radic.gif' width='14' height='16' alt='&radic;' border='0' style='vertical-align:middle;' /> 2 = 1 + 1/(2 + 1/(2 + 1/(2 + ... ))) = 1.414213...</p>
+<p style='text-align:center;'>&radic; 2 = 1 + 1/(2 + 1/(2 + 1/(2 + ... ))) = 1.414213...</p>
 <p>By expanding this for the first four iterations, we get:</p>
 <p>1 + 1/2 = 3/2 = 1.5<br />
 1 + 1/(2 + 1/2) = 7/5 = 1.4<br />
@@ -13,4 +13,4 @@ Square root convergents
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=57)
+[Go to the problem description](https://projecteuler.net/problem=57)

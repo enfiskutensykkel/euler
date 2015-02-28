@@ -9,9 +9,9 @@ Spiral primes
 41 20 <span style='color:#ff0000;font-family:courier new;'>&nbsp;<b>7</b></span> &nbsp;8 &nbsp;9 10 27<br />
 42 21 22 23 24 25 26<br />
 <span style='color:#ff0000;font-family:courier new;'><b>43</b></span> 44 45 46 47 48 49</p>
-<p>It is interesting to note that the odd squares lie along the bottom right diagonal, but what is more interesting is that 8 out of the 13 numbers lying along both diagonals are prime; that is, a ratio of 8/13 <img src='images/symbol_asymp.gif' width='11' height='9' alt='&asymp;' border='0' style='vertical-align:middle;' /> 62%.</p>
+<p>It is interesting to note that the odd squares lie along the bottom right diagonal, but what is more interesting is that 8 out of the 13 numbers lying along both diagonals are prime; that is, a ratio of 8/13 &asymp; 62%.</p>
 <p>If one complete new layer is wrapped around the spiral above, a square spiral with side length 9 will be formed. If this process is continued, what is the side length of the square spiral for which the ratio of primes along both diagonals first falls below 10%?</p>
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=58)
+[Go to the problem description](https://projecteuler.net/problem=58)

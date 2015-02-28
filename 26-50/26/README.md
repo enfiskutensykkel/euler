@@ -35,8 +35,8 @@ Reciprocal cycles
 </table>
 </blockquote>
 <p>Where 0.1(6) means 0.166666..., and has a 1-digit recurring cycle. It can be seen that <sup>1</sup>/<sub>7</sub> has a 6-digit recurring cycle.</p>
-<p>Find the value of <i>d</i> <img src='images/symbol_lt.gif' width='10' height='10' alt='&lt;' border='0' style='vertical-align:middle;' /> 1000 for which <sup>1</sup>/<sub><i>d</i></sub> contains the longest recurring cycle in its decimal fraction part.</p>
+<p>Find the value of <i>d</i> &lt; 1000 for which <sup>1</sup>/<sub><i>d</i></sub> contains the longest recurring cycle in its decimal fraction part.</p>
 
 
 
-[Go to the problem description](http://projecteuler.net/problem=26)
+[Go to the problem description](https://projecteuler.net/problem=26)

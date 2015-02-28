@@ -23,7 +23,7 @@ Maximum path sum I
 91 71 52 38 17 14 91 43 58 50 27 29 48<br />
 63 66 04 68 89 53 67 30 73 16 69 87 40 31<br />
 04 62 98 27 23 09 70 98 73 93 38 53 60 04 23</p>
-<p class="info"><b>NOTE:</b> As there are only 16384 routes, it is possible to solve this problem by trying every route. However, <a href="index.php?section=problems&amp;id=67">Problem 67</a>, is the same challenge with a triangle containing one-hundred rows; it cannot be solved by brute force, and requires a clever method! ;o)</p>
+<p class="note"><b>NOTE:</b> As there are only 16384 routes, it is possible to solve this problem by trying every route. However, <a href="problem=67">Problem 67</a>, is the same challenge with a triangle containing one-hundred rows; it cannot be solved by brute force, and requires a clever method! ;o)</p>
 
 
-[Go to the problem description](http://projecteuler.net/problem=18)
+[Go to the problem description](https://projecteuler.net/problem=18)

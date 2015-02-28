@@ -1,9 +1,8 @@
 Largest product in a series
 ===========================
 
-
-<p>Find the greatest product of five consecutive digits in the 1000-digit number.</p>
-<p style='font-family:courier new;font-size:10pt;text-align:center;'>
+<p>The four adjacent digits in the 1000-digit number that have the greatest product are 9 &times; 9 &times; 8 &times; 9 = 5832.</p>
+<p style="font-family:courier new;text-align:center;">
 73167176531330624919225119674426574742355349194934<br />
 96983520312774506326239578318016984801869478851843<br />
 85861560789112949495459501737958331952853208805511<br />
@@ -25,7 +24,7 @@ Largest product in a series
 05886116467109405077541002256983155200055935729725<br />
 71636269561882670428252483600823257530420752963450<br />
 </p>
+<p>Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?</p>
 
 
-
-[Go to the problem description](http://projecteuler.net/problem=8)
+[Go to the problem description](https://projecteuler.net/problem=8)
