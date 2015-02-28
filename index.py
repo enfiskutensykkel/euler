@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#
 # This script retrieves problem descriptions from the Project Euler website
 # and stores them as README files with Markdown syntax.
 #
@@ -11,8 +11,9 @@
 # The above will translate as a solution for problem 18, and a README.med file
 # will be placed in ./path/to/problem/18/
 #
-# The file INDEX.md contains a list of all solved and attempted problems.
-
+# The file INDEX.md is auto-generated with a list of all solved and attempted
+# problems.
+#
 import os
 from urllib import urlencode
 import urllib2 as url
@@ -117,13 +118,13 @@ def build_index(path, index):
 
 
 def usage(command, handle):
-	handle.write("Usage: %s -p <password> [-v] [-f] [-h]\n\n")
+	handle.write("Usage: %s -p <password> [-v] [-f] [-h]\n\n" % command)
 	handle.write("  -p\tpassword for user enfiskutensykkel at Project Euler\n")
 	handle.write("  -f\trebuild index file and update all project descriptions\n")
 	handle.write("  -v\tbe verbose, print out problem names\n")
 	handle.write("  -h\tshow this help\n")
 	handle.write("\nThis scripts searches subdirectories for source code files.\n")
-	handle.write("Parent directory MUST be named using the problem number.\n")
+	handle.write("Parent directory MUST be named using the Project Euler problem number.\n")
 
 
 if __name__ == '__main__':
@@ -144,7 +145,7 @@ if __name__ == '__main__':
 			password = arg
 
 	if password == None:
-		sys.stderr.write("No supplied password\n")
+		sys.stderr.write("Missing password\n")
 		usage(sys.argv[0], sys.stderr)
 		sys.exit(1)
 
@@ -158,7 +159,8 @@ if __name__ == '__main__':
 	status.write(" DONE\n")
 
 	if len(solutions) == 0:
-		sys.stderr.write("No new solutions found, re-run script with -f to update already downloaded descriptions\n")
+		sys.stderr.write("No new solutions found\n")
+		sys.stderr.write("Use -f to update already downloaded descriptions\n")
 		sys.exit(0)
 
 	status.write("Connecting to PE website... ")
