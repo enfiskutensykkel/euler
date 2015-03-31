@@ -1,7 +1,7 @@
 Solutions
 =========
 Here is a list of [Project Euler](https://projecteuler.net/) problems I've attempted to solve.
-This file was generated on 2015-02-28 14:36:49.432733 by the `update.py` script.
+This file was generated on 2015-03-31 16:19:33.607490 by the `update.py` script.
 
 Solved
 ------
@@ -68,6 +68,7 @@ Solved
 * [PE61 Cyclical figurate numbers](https://github.com/enfiskutensykkel/euler/tree/master/51-75/61)
 * [PE62 Cubic permutations](https://github.com/enfiskutensykkel/euler/tree/master/51-75/62)
 * [PE63 Powerful digit counts](https://github.com/enfiskutensykkel/euler/tree/master/51-75/63)
+* [PE64 Odd period square roots](https://github.com/enfiskutensykkel/euler/tree/master/51-75/64)
 * [PE65 Convergents of e](https://github.com/enfiskutensykkel/euler/tree/master/51-75/65)
 * [PE67 Maximum path sum II](https://github.com/enfiskutensykkel/euler/tree/master/51-75/67)
 * [PE79 Passcode derivation](https://github.com/enfiskutensykkel/euler/tree/master/76-100/79)
