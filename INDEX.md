@@ -1,7 +1,7 @@
 Solutions
 =========
 Here is a list of [Project Euler](https://projecteuler.net/) problems I've attempted to solve.
-This file was generated on 2015-04-02 11:00:37.537056 by the `update.py` script.
+This file was generated on 2015-04-03 12:04:58.461236 by the `update.py` script.
 
 Solved
 ------
@@ -73,6 +73,7 @@ Solved
 * [PE66 Diophantine equation](https://github.com/enfiskutensykkel/euler/tree/master/51-75/66)
 * [PE67 Maximum path sum II](https://github.com/enfiskutensykkel/euler/tree/master/51-75/67)
 * [PE79 Passcode derivation](https://github.com/enfiskutensykkel/euler/tree/master/76-100/79)
+* [PE80 Square root digital expansion](https://github.com/enfiskutensykkel/euler/tree/master/76-100/80)
 * [PE81 Path sum: two ways](https://github.com/enfiskutensykkel/euler/tree/master/76-100/81)
 * [PE89 Roman numerals](https://github.com/enfiskutensykkel/euler/tree/master/76-100/89)
 * [PE92 Square digit chains](https://github.com/enfiskutensykkel/euler/tree/master/76-100/92)
