@@ -17,7 +17,7 @@ F<sub>10</sub> = 55<br />
 F<sub>11</sub> = 89<br />
 F<sub>12</sub> = 144</blockquote>
 <p>The 12th term, F<sub>12</sub>, is the first term to contain three digits.</p>
-<p>What is the first term in the Fibonacci sequence to contain 1000 digits?</p>
+<p>What is the index of the first term in the Fibonacci sequence to contain 1000 digits?</p>
 
 
 

@@ -55,7 +55,8 @@ if __name__ == '__main__':
 	import urllib2 as url
 
 	saved = 0
-	for line in [ line.strip() for line in url.urlopen('http://projecteuler.net/project/roman.txt').readlines() ]:
+	#link = 'https://projecteuler.net/project/resources/p089_roman.txt'
+	for line in [ line.strip() for line in open('roman.txt').readlines() ]:
 		print line, contract(expand(line))
 		saved += len(line) - len(contract(expand(line)))
 
