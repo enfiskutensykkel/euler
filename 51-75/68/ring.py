@@ -30,9 +30,6 @@ def add_rings(n, target, pos, rings, current):
         if pos >= n and (number + current[pos - n] + current[(pos - n + 1) % n]) != target:
             continue
 
-        #if pos > n and not current[pos - n] == current[(pos - 1 - n + 1) % n]:
-        #    continue
-
         current[pos] = number
         add_rings(n, target, pos + 1, rings, current)
         current[pos] = None
